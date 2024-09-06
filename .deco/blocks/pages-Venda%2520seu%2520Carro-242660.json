@@ -4,10 +4,10 @@
     {
       "__resolveType": "site/sections/Header.tsx",
       "logo": {
-        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12381/b867dd6e-e585-42f9-be4e-d7c489e31976",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/2d69bd9f-53f8-4f9e-b207-c6215865c098/leadfy_black.png",
         "alt": "Garagecar Veículos",
-        "width": 116,
-        "height": 116
+        "width": 179,
+        "height": 80
       },
       "navItems": [
         {
