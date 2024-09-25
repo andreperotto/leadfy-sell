@@ -16,6 +16,7 @@ import * as $$$$$$4 from "./sections/ItWorks.tsx";
 import * as $$$$$$5 from "./sections/LeadCapture.tsx";
 import * as $$$$$$6 from "./sections/Maps.tsx";
 import * as $$$$$$7 from "./sections/OurDifferences.tsx";
+import * as $$$$$$12 from "./sections/platforms-leadfy.tsx";
 import * as $$$$$$8 from "./sections/Steps.tsx";
 import * as $$$$$$9 from "./sections/Theme/Theme.tsx";
 
@@ -31,6 +32,7 @@ const manifest = {
     "site/sections/LeadCapture.tsx": $$$$$$5,
     "site/sections/Maps.tsx": $$$$$$6,
     "site/sections/OurDifferences.tsx": $$$$$$7,
+    "site/sections/platforms-leadfy.tsx": $$$$$$12,
     "site/sections/Steps.tsx": $$$$$$8,
     "site/sections/Theme/Theme.tsx": $$$$$$9,
   },
