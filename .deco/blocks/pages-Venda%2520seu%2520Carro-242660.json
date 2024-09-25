@@ -38,6 +38,35 @@
       }
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/features-leadfy.tsx",
+        "buttonText": "Fale com Especialista",
+        "features": [
+          {
+            "title": "Economize tempo e trabalho",
+            "description": "Atualizamos seus anúncios com seu estoque em tempo real",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/38af45ae-5416-4e55-b818-1e2a860fef7b/clock.png"
+          },
+          {
+            "title": "Otimize seus resultados",
+            "description": "Melhoramos a performance das suas campanhas de aquisição e remarketing",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/6c168644-eade-42c6-814f-f37bca1292dc/filter-add.png"
+          },
+          {
+            "title": "Seja mais competitivo",
+            "description": "Traga as estratégias dos grandes portais para o site do seu negócio",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/1e6eaf20-f904-44ff-8ffe-4ec42d48f5f6/cup.png"
+          },
+          {
+            "title": "Venda fora do horário comercial",
+            "description": "Nosso módulo de atendimento 24×7 não deixa você perder nenhum cliente",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/5543d561-ec28-40fd-8e4d-cce4ff4cbcd5/message-add.png"
+          }
+        ]
+      }
+    },
+    {
       "__resolveType": "site/sections/Steps.tsx",
       "title": "Quer vender o seu carro?",
       "description": "Aqui o processo é prático, transparente e seguro! A compra acontece em poucos passos:",
