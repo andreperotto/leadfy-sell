@@ -9,6 +9,7 @@ import * as $$$$$$$$$$$1 from "./apps/site.ts";
 import * as $$$$$$0 from "./sections/FAQ.tsx";
 import * as $$$$$$1 from "./sections/Footer.tsx";
 import * as $$$$$$2 from "./sections/Header.tsx";
+import * as $$$$$$10 from "./sections/hero-leadfy.tsx";
 import * as $$$$$$3 from "./sections/HeroLeadCapture.tsx";
 import * as $$$$$$4 from "./sections/ItWorks.tsx";
 import * as $$$$$$5 from "./sections/LeadCapture.tsx";
@@ -22,6 +23,7 @@ const manifest = {
     "site/sections/FAQ.tsx": $$$$$$0,
     "site/sections/Footer.tsx": $$$$$$1,
     "site/sections/Header.tsx": $$$$$$2,
+    "site/sections/hero-leadfy.tsx": $$$$$$10,
     "site/sections/HeroLeadCapture.tsx": $$$$$$3,
     "site/sections/ItWorks.tsx": $$$$$$4,
     "site/sections/LeadCapture.tsx": $$$$$$5,
