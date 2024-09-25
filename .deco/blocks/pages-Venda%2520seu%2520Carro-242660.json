@@ -63,7 +63,8 @@
             "description": "Nosso módulo de atendimento 24×7 não deixa você perder nenhum cliente",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/5543d561-ec28-40fd-8e4d-cce4ff4cbcd5/message-add.png"
           }
-        ]
+        ],
+        "buttonHref": "https://wa.me/5561982214588"
       }
     },
     {
