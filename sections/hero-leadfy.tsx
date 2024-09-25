@@ -22,6 +22,10 @@ interface Props {
    * @format textarea
    */
   buttonText?: string;
+  /**
+   * @description The URL to redirect when the button is clicked
+   */
+  buttonHref?: string;
 }
 
 export default function HeroLeadfy({
@@ -30,7 +34,8 @@ export default function HeroLeadfy({
   description = "",
   highlightColor = "#c6f551",
   image = "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1818/6fe9404a-f69c-472a-b521-78f6c1f87326",
-  buttonText = "Fale com Especialista"
+  buttonText = "Fale com Especialista",
+  buttonHref = "#"
 }: Props) {
   return (
     <div className="flex flex-col md:flex-row items-center justify-between py-12 px-8 bg-white">
@@ -44,9 +49,9 @@ export default function HeroLeadfy({
         </h1>
         <p className="text-xl mb-6">{subtitle}</p>
         {description && <p className="mb-6">{description}</p>}
-        <button className="btn bg-[#c6f551] text-black hover:bg-[#b3e048] border-none">
+        <a href={buttonHref} className="btn bg-[#c6f551] text-black hover:bg-[#b3e048] border-none inline-block">
           {buttonText}
-        </button>
+        </a>
       </div>
       <div className="md:w-1/2">
         <img src={image} alt="Hero" className="w-full h-auto rounded-lg shadow-lg" />
