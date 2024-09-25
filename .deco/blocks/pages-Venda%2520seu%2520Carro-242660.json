@@ -31,6 +31,13 @@
       "backgroundColor": "#daff01"
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/hero-leadfy.tsx",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/5a49c95d-7ac7-4ab4-aa8f-8bcb4c2d5971/andreperotto__Create_an_ultra-realistic_high-impact_advertising_70a559ad-1eda-4bea-855d-4fdd2ebf063c.png"
+      }
+    },
+    {
       "__resolveType": "site/sections/Steps.tsx",
       "title": "Quer vender o seu carro?",
       "description": "Aqui o processo é prático, transparente e seguro! A compra acontece em poucos passos:",
@@ -129,8 +136,8 @@
     {
       "__resolveType": "site/sections/Maps.tsx",
       "title": "Venha nos visitar",
-      "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d863.7689639304136!2d-51.1900465!3d-30.0059782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951976fb4b58c411%3A0xa04c3e2274b0068b!2sGarageCar%20%7C%20Compra%20e%20Venda%20de%20Ve%C3%ADculos!5e0!3m2!1spt-BR!2sbr!4v1725263121156!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "sectionId": "unidades",
+      "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d863.7689639304136!2d-51.1900465!3d-30.0059782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951976fb4b58c411%3A0xa04c3e2274b0068b!2sGarageCar%20%7C%20Compra%20e%20Venda%20de%20Ve%C3%ADculos!5e0!3m2!1spt-BR!2sbr!4v1725263121156!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "banners": [
         {
           "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/679963b8-7f1f-414a-8349-8b7305223b6f/download-(1).webp",

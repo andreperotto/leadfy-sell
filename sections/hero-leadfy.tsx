@@ -33,7 +33,7 @@ export default function HeroLeadfy({
   buttonText = "Fale com Especialista"
 }: Props) {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-between p-8 bg-white">
+    <div className="flex flex-col md:flex-row items-center justify-between py-12 px-8 bg-white">
       <div className="md:w-1/2 mb-8 md:mb-0">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
           {title.split(" ").map((word, index) => (
