@@ -28,6 +28,11 @@ interface Props {
   logo?: Logo;
   navItems?: NavItem[];
   cta?: CTA;
+  /**
+   * @description Background color for the header
+   * @format color-input
+   */
+  backgroundColor?: string;
 }
 
 const script = () => {
@@ -50,10 +55,10 @@ const script = () => {
   }
 };
 
-function Header({ logo, navItems, cta }: Props) {
+function Header({ logo, navItems, cta, backgroundColor = "#ffffff" }: Props) {
   return (
     <>
-      <header id="header" class="top-0 left-0 w-full bg-base-100 z-50">
+      <header id="header" class="top-0 left-0 w-full z-50" style={{ backgroundColor }}>
         <div class="w-full mx-auto px-4 max-w-[1140px] py-4 flex items-center justify-between">
           <a
             href="/"
