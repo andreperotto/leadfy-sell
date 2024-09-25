@@ -24,6 +24,10 @@ interface Props {
    * @format textarea
    */
   buttonText?: string;
+  /**
+   * @description The URL to redirect when the button is clicked
+   */
+  buttonHref?: string;
 }
 
 export default function FeaturesLeadfy({
@@ -52,7 +56,8 @@ export default function FeaturesLeadfy({
       description: "Nosso módulo de atendimento 24×7 não deixa você perder nenhum cliente"
     }
   ],
-  buttonText = "Fale com Especialista"
+  buttonText = "Fale com Especialista",
+  buttonHref = "#"
 }: Props) {
   return (
     <section className="py-16 px-4 bg-white">
@@ -76,9 +81,9 @@ export default function FeaturesLeadfy({
           ))}
         </div>
         <div className="text-center">
-          <button className="btn bg-[#c6f551] text-black hover:bg-[#b3e048] border-none px-8 py-3 text-lg font-semibold">
+          <a href={buttonHref} className="btn bg-[#c6f551] text-black hover:bg-[#b3e048] border-none px-8 py-3 text-lg font-semibold inline-block">
             {buttonText}
-          </button>
+          </a>
         </div>
       </div>
     </section>
