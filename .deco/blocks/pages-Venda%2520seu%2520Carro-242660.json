@@ -69,6 +69,34 @@
       }
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/platforms-leadfy.tsx",
+        "platforms": [
+          {
+            "name": "TikTok",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/ce82f614-9c4d-4e53-80d9-bab4204136ab/Icons.png"
+          },
+          {
+            "name": "Facebook",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/46a86ceb-9bf3-4705-a0a3-94caa7e87945/Icons.png"
+          },
+          {
+            "name": "Instagram",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/1b9cdafe-31f4-4104-b97f-84efd3cc5eaa/Icons_ig.png"
+          },
+          {
+            "name": "Google",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/3c307cab-5c2a-4c2f-bcc6-ea1381af97c5/google.png"
+          }
+        ],
+        "highlightColor": "#daff01",
+        "title": "<h2 style=\"text-align: center\"><strong>Anuncie seu estoque <span>24 horas</span> por dia, <span>7 dias</span> por semana</strong></h2>",
+        "subtitle": "A Leadfy conecta seu negócio com as principais\nmídias digitais do planeta.",
+        "leadfyLogo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/3d326d56-cba1-4125-9652-f8043b0c2301/Captura_de_tela_2024-08-27_142637-removebg-preview.png"
+      }
+    },
+    {
       "__resolveType": "site/sections/Steps.tsx",
       "title": "Quer vender o seu carro?",
       "description": "Aqui o processo é prático, transparente e seguro! A compra acontece em poucos passos:",
