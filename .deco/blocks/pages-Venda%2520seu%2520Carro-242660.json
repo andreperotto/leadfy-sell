@@ -34,7 +34,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/hero-leadfy.tsx",
-        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/5a49c95d-7ac7-4ab4-aa8f-8bcb4c2d5971/andreperotto__Create_an_ultra-realistic_high-impact_advertising_70a559ad-1eda-4bea-855d-4fdd2ebf063c.png"
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/5a49c95d-7ac7-4ab4-aa8f-8bcb4c2d5971/andreperotto__Create_an_ultra-realistic_high-impact_advertising_70a559ad-1eda-4bea-855d-4fdd2ebf063c.png",
+        "buttonHref": "https://wa.me/5561982214588"
       }
     },
     {
