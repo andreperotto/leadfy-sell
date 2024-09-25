@@ -24,5 +24,14 @@
     "warning": "#000000",
     "success": "#000000",
     "neutral": "#000000"
+  },
+  "font": {
+    "__resolveType": "website/loaders/fonts/googleFonts.ts",
+    "fonts": [
+      {
+        "variations": [],
+        "family": "Inter"
+      }
+    ]
   }
 }
