@@ -27,7 +27,8 @@
       "cta": {
         "href": "#contato",
         "text": "Solicite uma Avaliação"
-      }
+      },
+      "backgroundColor": "#daff01"
     },
     {
       "__resolveType": "site/sections/HeroLeadCapture.tsx",
